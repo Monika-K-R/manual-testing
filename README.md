@@ -3,12 +3,12 @@
 - I conducted exploratory tests on the following websites:
   - justjoin.it
   - player.pl
-  - polsatboxgo.pl
+  - polsatboxgo.pl<br>
   I created test session reports for these websites.</p>
 <p><strong>Task no. 2</strong><br>
 - I developed a PWA-compliant test plan that included:
   - Assumptions consistent with the principles of PWA
-  - Test cases corresponding to the main principles of PWA
+  - Test cases corresponding to the main principles of PWA.<br>
   I performed the tests on the pinterest.com application.</p>
 <p><strong>Task no. 3</strong><br>
 - Additionally, I reviewed the technical specifications for the access management IT system at PGE Narodowy:
