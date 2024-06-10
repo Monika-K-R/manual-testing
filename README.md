@@ -1,2 +1,15 @@
-# manual-testing
-I conducted exploratory tests on justjoin.it, player.pl, and polsatboxgo.pl, and created test session reports. I developed a PWA-compliant test plan with relevant test cases and tested pinterest.com. Additionally, I reviewed the technical specs for PGE Narodowy's access management system, designing 10 tests and arranging some into a scenario.
+# Manual Testing
+
+- I conducted exploratory tests on the following websites:
+  - justjoin.it
+  - player.pl
+  - polsatboxgo.pl
+- I created test session reports for these websites.
+- I developed a PWA-compliant test plan that included:
+  - Assumptions consistent with the principles of PWA
+  - Test cases corresponding to the main principles of PWA
+- I performed the tests on the pinterest.com application.
+- Additionally, I reviewed the technical specifications for the access management IT system at PGE Narodowy:
+  - Designed 10 tests
+  - Arranged some of them into a test scenario.
+
